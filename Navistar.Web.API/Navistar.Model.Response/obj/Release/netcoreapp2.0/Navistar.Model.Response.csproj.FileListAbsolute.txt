@@ -1,0 +1,17 @@
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\bin\Release\netcoreapp2.0\Navistar.Model.Response.deps.json
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\bin\Release\netcoreapp2.0\Navistar.Model.Response.dll
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\bin\Release\netcoreapp2.0\Navistar.Model.Response.pdb
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.csprojAssemblyReference.cache
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.csproj.CoreCompileInputs.cache
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.AssemblyInfoInputs.cache
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.AssemblyInfo.cs
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.dll
+C:\Users\Wayssen\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.pdb
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\bin\Release\netcoreapp2.0\Navistar.Model.Response.deps.json
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\bin\Release\netcoreapp2.0\Navistar.Model.Response.dll
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\bin\Release\netcoreapp2.0\Navistar.Model.Response.pdb
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.csproj.CoreCompileInputs.cache
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.AssemblyInfoInputs.cache
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.AssemblyInfo.cs
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.dll
+C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Model.Response\obj\Release\netcoreapp2.0\Navistar.Model.Response.pdb
