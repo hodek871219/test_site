@@ -1,9 +1,0 @@
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\bin\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.deps.json
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\bin\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.dll
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\bin\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.pdb
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\obj\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.csprojAssemblyReference.cache
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\obj\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.csproj.CoreCompileInputs.cache
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\obj\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.AssemblyInfoInputs.cache
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\obj\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.AssemblyInfo.cs
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\obj\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.dll
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.DAO.DiscountsImp\obj\Release\netcoreapp2.0\Navistar.DAO.DiscountsImp.pdb

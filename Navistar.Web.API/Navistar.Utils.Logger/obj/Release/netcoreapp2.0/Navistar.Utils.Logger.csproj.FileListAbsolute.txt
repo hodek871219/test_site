@@ -1,8 +1,0 @@
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\bin\Release\netcoreapp2.0\Navistar.Utils.Logger.deps.json
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\bin\Release\netcoreapp2.0\Navistar.Utils.Logger.dll
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\bin\Release\netcoreapp2.0\Navistar.Utils.Logger.pdb
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\obj\Release\netcoreapp2.0\Navistar.Utils.Logger.csproj.CoreCompileInputs.cache
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\obj\Release\netcoreapp2.0\Navistar.Utils.Logger.AssemblyInfoInputs.cache
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\obj\Release\netcoreapp2.0\Navistar.Utils.Logger.AssemblyInfo.cs
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\obj\Release\netcoreapp2.0\Navistar.Utils.Logger.dll
-C:\Users\yyy1w73\Documents\Git.Src.Navistar\Navistar.Web.API\Navistar.Utils.Logger\obj\Release\netcoreapp2.0\Navistar.Utils.Logger.pdb
